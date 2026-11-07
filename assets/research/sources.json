@@ -1,0 +1,38 @@
+[
+  {
+    "asset": "mof-device.webp",
+    "source": "E:\\Research\\Mission 18 MOF morphology control\\1figure\\figure 1\\fig1a chip explode 3d 4.png",
+    "changes": "Proportional resize and web encoding; no crop or content changes",
+    "credit": "Jingyang Zhao, supplied research artwork"
+  },
+  {
+    "asset": "mof-platform.webp",
+    "source": "E:\\Research\\Mission 18 MOF morphology control\\1figure\\figure supporting machine\\machine 2.png",
+    "changes": "Proportional resize and web encoding; no crop or content changes",
+    "credit": "Jingyang Zhao, supplied research artwork"
+  },
+  {
+    "asset": "robot-fig3.png",
+    "doi": "10.1038/s41467-025-62182-2",
+    "credit": "Xu et al., Nature Communications (2025), Fig. 3. CC BY-NC-ND 4.0. Unmodified.",
+    "changes": "None; original file"
+  },
+  {
+    "asset": "robot-scaling.mp4",
+    "doi": "10.1038/s41467-025-62182-2",
+    "credit": "Xu et al., Nature Communications (2025), Supplementary Video 5. CC BY-NC-ND 4.0. Unmodified.",
+    "changes": "None; original file"
+  },
+  {
+    "asset": "qpcr-fig1.jpg",
+    "doi": "10.1016/j.snb.2026.140134",
+    "credit": "Zhao et al., Sensors and Actuators B: Chemical (2026), Fig. 1.",
+    "changes": "None; original file"
+  },
+  {
+    "asset": "immunoassay-fig1.jpg",
+    "doi": "10.1016/j.bios.2021.113088",
+    "credit": "Song et al., Biosensors and Bioelectronics (2021), Fig. 1.",
+    "changes": "None; original file"
+  }
+]
