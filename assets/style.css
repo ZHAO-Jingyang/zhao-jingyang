@@ -4,3 +4,6 @@
 .research-media{margin:2rem 0;max-width:100%;min-width:0}.research-media img,.research-media video{display:block;width:100%;height:auto;max-width:100%;background:#fff;border-radius:8px}.research-media figcaption{font-size:.85rem;line-height:1.65;color:var(--muted);margin-top:.8rem}.research-media figcaption a{text-decoration:underline}.diagram img{display:block;width:100%;height:100%;max-height:440px;object-fit:contain;background:#fff}.research-media video{background:#000;max-height:640px}
 
 .cluster-preview{display:block;width:100%;height:auto;max-height:260px;object-fit:contain;background:white;border-radius:8px;margin-bottom:1rem}
+
+/* Publication examples */
+.case-example{margin:2.5rem 0;padding:1.5rem;border:1px solid var(--line,#293645);border-radius:10px;min-width:0}.case-example h3{font-size:1.55rem;line-height:1.25;margin:.6rem 0 1rem}.case-question{font-weight:600}.case-flow{font-size:.9rem;padding:1rem;border-left:2px solid #52dcf4}.case-paper{font-size:.85rem;line-height:1.6}.case-paper a{text-decoration:underline}.example-summary{font-size:.85rem;line-height:1.7;opacity:.8}.case-example .research-media:last-child{margin-bottom:0}@media(max-width:600px){.case-example{padding:1rem}.case-example h3{font-size:1.3rem}}

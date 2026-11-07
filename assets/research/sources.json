@@ -34,5 +34,21 @@
     "doi": "10.1016/j.bios.2021.113088",
     "credit": "Song et al., Biosensors and Bioelectronics (2021), Fig. 1.",
     "changes": "None; original file"
+  },
+  {
+    "asset": "pneumatic-fig1.jpg",
+    "doi": "10.1126/sciadv.adx0092",
+    "figure": "1",
+    "license": "CC BY-NC 4.0",
+    "changes": "None",
+    "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12333680/fullTextXML"
+  },
+  {
+    "asset": "mrna-device.jpg",
+    "doi": "10.1039/D4SD00079J",
+    "figure": "5",
+    "license": "CC BY 3.0",
+    "changes": "None",
+    "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11308381/fullTextXML"
   }
 ]
