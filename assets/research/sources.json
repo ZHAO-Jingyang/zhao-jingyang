@@ -50,5 +50,11 @@
     "license": "CC BY 3.0",
     "changes": "None",
     "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11308381/fullTextXML"
+  },
+  {
+    "asset": "robot-fig3a-inset.png",
+    "doi": "10.1038/s41467-025-62182-2",
+    "credit": "Xu et al., Nature Communications (2025), fingertip inset from Figure 3a.",
+    "changes": "Displayed as supplied by Jingyang Zhao."
   }
 ]

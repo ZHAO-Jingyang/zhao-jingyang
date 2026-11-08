@@ -13,6 +13,8 @@
   grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
   gap: 1.75rem;
   align-items: center;
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--line);
 }
 
 .featured-work .cluster-preview {
@@ -25,4 +27,40 @@
     grid-template-columns: minmax(0, 1fr);
     gap: 1rem;
   }
+}
+
+
+.featured-work h3 {
+  margin: 0 0 0.75rem;
+  font-size: clamp(1.35rem, 3vw, 2rem);
+}
+
+.featured-figure,
+.cluster-figure {
+  margin: 0;
+  min-width: 0;
+}
+
+.cluster-figure img {
+  height: auto;
+}
+
+.featured-figure figcaption,
+.cluster-figure figcaption {
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  color: var(--muted);
+}
+
+.cluster-figure figcaption p {
+  margin: 0.35rem 0 0;
+}
+
+.featured-citation {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.all-publications-link {
+  margin-top: 1.5rem;
 }
