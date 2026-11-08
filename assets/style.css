@@ -7,3 +7,22 @@
 
 /* Publication examples */
 .case-example{margin:2.5rem 0;padding:1.5rem;border:1px solid var(--line,#293645);border-radius:10px;min-width:0}.case-example h3{font-size:1.55rem;line-height:1.25;margin:.6rem 0 1rem}.case-question{font-weight:600}.case-flow{font-size:.9rem;padding:1rem;border-left:2px solid #52dcf4}.case-paper{font-size:.85rem;line-height:1.6}.case-paper a{text-decoration:underline}.example-summary{font-size:.85rem;line-height:1.7;opacity:.8}.case-example .research-media:last-child{margin-bottom:0}@media(max-width:600px){.case-example{padding:1rem}.case-example h3{font-size:1.3rem}}
+
+.featured-work {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+  gap: 1.75rem;
+  align-items: center;
+}
+
+.featured-work .cluster-preview {
+  margin: 0;
+  max-height: 240px;
+}
+
+@media (max-width: 650px) {
+  .featured-work {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+  }
+}
