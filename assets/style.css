@@ -12,7 +12,7 @@
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
   gap: 1.75rem;
-  align-items: center;
+  align-items: start;
   padding: 2rem 0;
   border-bottom: 1px solid var(--line);
 }
@@ -63,4 +63,21 @@
 
 .all-publications-link {
   margin-top: 1.5rem;
+}
+
+.featured-companion {
+  margin-top: 1rem;
+  padding: 0.35rem 0 0 1rem;
+  border-left: 2px solid var(--line);
+}
+
+.author-position {
+  color: var(--accent);
+  font-size: 0.875rem;
+}
+
+.diagnostic-examples-link {
+  display: inline-block;
+  margin-top: 1rem;
+  color: var(--accent);
 }
